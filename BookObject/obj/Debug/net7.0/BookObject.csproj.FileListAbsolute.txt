@@ -1,0 +1,30 @@
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\PE\PE_PRN211_SP23_554489_TranQuocBao\BookObject\bin\Debug\net7.0\BookObject.deps.json
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\PE\PE_PRN211_SP23_554489_TranQuocBao\BookObject\bin\Debug\net7.0\BookObject.runtimeconfig.json
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\PE\PE_PRN211_SP23_554489_TranQuocBao\BookObject\bin\Debug\net7.0\BookObject.dll
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\PE\PE_PRN211_SP23_554489_TranQuocBao\BookObject\bin\Debug\net7.0\BookObject.pdb
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\PE\PE_PRN211_SP23_554489_TranQuocBao\BookObject\obj\Debug\net7.0\BookObject.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\PE\PE_PRN211_SP23_554489_TranQuocBao\BookObject\obj\Debug\net7.0\BookObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\PE\PE_PRN211_SP23_554489_TranQuocBao\BookObject\obj\Debug\net7.0\BookObject.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\PE\PE_PRN211_SP23_554489_TranQuocBao\BookObject\obj\Debug\net7.0\BookObject.AssemblyInfo.cs
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\PE\PE_PRN211_SP23_554489_TranQuocBao\BookObject\obj\Debug\net7.0\BookObject.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\PE\PE_PRN211_SP23_554489_TranQuocBao\BookObject\obj\Debug\net7.0\BookObject.dll
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\PE\PE_PRN211_SP23_554489_TranQuocBao\BookObject\obj\Debug\net7.0\refint\BookObject.dll
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\PE\PE_PRN211_SP23_554489_TranQuocBao\BookObject\obj\Debug\net7.0\BookObject.pdb
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\PE\PE_PRN211_SP23_554489_TranQuocBao\BookObject\obj\Debug\net7.0\BookObject.genruntimeconfig.cache
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\PE\PE_PRN211_SP23_554489_TranQuocBao\BookObject\obj\Debug\net7.0\ref\BookObject.dll
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\PE\PE_PRN211_SP23_554489_TranQuocBao\BookObject\bin\Debug\net7.0\appsettings.json
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\PE\Assignment group\BookObject\bin\Debug\net7.0\appsettings.json
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\PE\Assignment group\BookObject\bin\Debug\net7.0\BookObject.deps.json
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\PE\Assignment group\BookObject\bin\Debug\net7.0\BookObject.runtimeconfig.json
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\PE\Assignment group\BookObject\bin\Debug\net7.0\BookObject.dll
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\PE\Assignment group\BookObject\bin\Debug\net7.0\BookObject.pdb
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\PE\Assignment group\BookObject\obj\Debug\net7.0\BookObject.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\PE\Assignment group\BookObject\obj\Debug\net7.0\BookObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\PE\Assignment group\BookObject\obj\Debug\net7.0\BookObject.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\PE\Assignment group\BookObject\obj\Debug\net7.0\BookObject.AssemblyInfo.cs
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\PE\Assignment group\BookObject\obj\Debug\net7.0\BookObject.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\PE\Assignment group\BookObject\obj\Debug\net7.0\BookObject.dll
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\PE\Assignment group\BookObject\obj\Debug\net7.0\refint\BookObject.dll
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\PE\Assignment group\BookObject\obj\Debug\net7.0\BookObject.pdb
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\PE\Assignment group\BookObject\obj\Debug\net7.0\BookObject.genruntimeconfig.cache
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\PE\Assignment group\BookObject\obj\Debug\net7.0\ref\BookObject.dll

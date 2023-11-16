@@ -1,0 +1,32 @@
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\PE\PE_PRN211_SP23_554489_TranQuocBao\DataAccess\bin\Debug\net7.0\appsettings.json
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\PE\PE_PRN211_SP23_554489_TranQuocBao\DataAccess\bin\Debug\net7.0\DataAccess.deps.json
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\PE\PE_PRN211_SP23_554489_TranQuocBao\DataAccess\bin\Debug\net7.0\DataAccess.dll
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\PE\PE_PRN211_SP23_554489_TranQuocBao\DataAccess\bin\Debug\net7.0\DataAccess.pdb
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\PE\PE_PRN211_SP23_554489_TranQuocBao\DataAccess\bin\Debug\net7.0\BookObject.dll
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\PE\PE_PRN211_SP23_554489_TranQuocBao\DataAccess\bin\Debug\net7.0\BookObject.pdb
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\PE\PE_PRN211_SP23_554489_TranQuocBao\DataAccess\obj\Debug\net7.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\PE\PE_PRN211_SP23_554489_TranQuocBao\DataAccess\obj\Debug\net7.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\PE\PE_PRN211_SP23_554489_TranQuocBao\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\PE\PE_PRN211_SP23_554489_TranQuocBao\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfo.cs
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\PE\PE_PRN211_SP23_554489_TranQuocBao\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\PE\PE_PRN211_SP23_554489_TranQuocBao\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CopyComplete
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\PE\PE_PRN211_SP23_554489_TranQuocBao\DataAccess\obj\Debug\net7.0\DataAccess.dll
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\PE\PE_PRN211_SP23_554489_TranQuocBao\DataAccess\obj\Debug\net7.0\refint\DataAccess.dll
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\PE\PE_PRN211_SP23_554489_TranQuocBao\DataAccess\obj\Debug\net7.0\DataAccess.pdb
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\PE\PE_PRN211_SP23_554489_TranQuocBao\DataAccess\obj\Debug\net7.0\ref\DataAccess.dll
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\PE\Assignment group\DataAccess\bin\Debug\net7.0\appsettings.json
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\PE\Assignment group\DataAccess\bin\Debug\net7.0\DataAccess.deps.json
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\PE\Assignment group\DataAccess\bin\Debug\net7.0\DataAccess.dll
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\PE\Assignment group\DataAccess\bin\Debug\net7.0\DataAccess.pdb
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\PE\Assignment group\DataAccess\bin\Debug\net7.0\BookObject.dll
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\PE\Assignment group\DataAccess\bin\Debug\net7.0\BookObject.pdb
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\PE\Assignment group\DataAccess\obj\Debug\net7.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\PE\Assignment group\DataAccess\obj\Debug\net7.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\PE\Assignment group\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\PE\Assignment group\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfo.cs
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\PE\Assignment group\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\PE\Assignment group\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CopyComplete
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\PE\Assignment group\DataAccess\obj\Debug\net7.0\DataAccess.dll
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\PE\Assignment group\DataAccess\obj\Debug\net7.0\refint\DataAccess.dll
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\PE\Assignment group\DataAccess\obj\Debug\net7.0\DataAccess.pdb
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\PE\Assignment group\DataAccess\obj\Debug\net7.0\ref\DataAccess.dll
