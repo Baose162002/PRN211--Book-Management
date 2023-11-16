@@ -12,8 +12,13 @@
       }
     ],
     "additionalProbingPaths": [
+<<<<<<< HEAD
       "C:\\Users\\ADMIN\\.dotnet\\store\\|arch|\\|tfm|",
       "C:\\Users\\ADMIN\\.nuget\\packages",
+=======
+      "C:\\Users\\Quan\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Quan\\.nuget\\packages",
+>>>>>>> cadff47971e8028d2f6dff5f5387e4f92c6eb97f
       "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
     ],
     "configProperties": {

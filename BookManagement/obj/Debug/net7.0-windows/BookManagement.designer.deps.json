@@ -6,6 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v7.0": {
+<<<<<<< HEAD
       "AutoMapper/12.0.1": {
         "dependencies": {
           "Microsoft.CSharp": "4.7.0"
@@ -17,6 +18,8 @@
           }
         }
       },
+=======
+>>>>>>> cadff47971e8028d2f6dff5f5387e4f92c6eb97f
       "Azure.Core/1.25.0": {
         "dependencies": {
           "Microsoft.Bcl.AsyncInterfaces": "1.1.1",
@@ -59,7 +62,11 @@
           }
         }
       },
+<<<<<<< HEAD
       "Microsoft.CSharp/4.7.0": {},
+=======
+      "Microsoft.CSharp/4.5.0": {},
+>>>>>>> cadff47971e8028d2f6dff5f5387e4f92c6eb97f
       "Microsoft.Data.SqlClient/5.1.1": {
         "dependencies": {
           "Azure.Identity": "1.7.0",
@@ -422,7 +429,11 @@
       },
       "Microsoft.IdentityModel.Tokens/6.24.0": {
         "dependencies": {
+<<<<<<< HEAD
           "Microsoft.CSharp": "4.7.0",
+=======
+          "Microsoft.CSharp": "4.5.0",
+>>>>>>> cadff47971e8028d2f6dff5f5387e4f92c6eb97f
           "Microsoft.IdentityModel.Logging": "6.24.0",
           "System.Security.Cryptography.Cng": "5.0.0"
         },
@@ -735,6 +746,7 @@
     }
   },
   "libraries": {
+<<<<<<< HEAD
     "AutoMapper/12.0.1": {
       "type": "package",
       "serviceable": true,
@@ -742,6 +754,8 @@
       "path": "automapper/12.0.1",
       "hashPath": "automapper.12.0.1.nupkg.sha512"
     },
+=======
+>>>>>>> cadff47971e8028d2f6dff5f5387e4f92c6eb97f
     "Azure.Core/1.25.0": {
       "type": "package",
       "serviceable": true,
@@ -763,12 +777,21 @@
       "path": "microsoft.bcl.asyncinterfaces/1.1.1",
       "hashPath": "microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512"
     },
+<<<<<<< HEAD
     "Microsoft.CSharp/4.7.0": {
       "type": "package",
       "serviceable": true,
       "sha512": "sha512-pTj+D3uJWyN3My70i2Hqo+OXixq3Os2D1nJ2x92FFo6sk8fYS1m1WLNTs0Dc1uPaViH0YvEEwvzddQ7y4rhXmA==",
       "path": "microsoft.csharp/4.7.0",
       "hashPath": "microsoft.csharp.4.7.0.nupkg.sha512"
+=======
+    "Microsoft.CSharp/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kaj6Wb4qoMuH3HySFJhxwQfe8R/sJsNJnANrvv8WdFPMoNbKY5htfNscv+LHCu5ipz+49m2e+WQXpLXr9XYemQ==",
+      "path": "microsoft.csharp/4.5.0",
+      "hashPath": "microsoft.csharp.4.5.0.nupkg.sha512"
+>>>>>>> cadff47971e8028d2f6dff5f5387e4f92c6eb97f
     },
     "Microsoft.Data.SqlClient/5.1.1": {
       "type": "package",

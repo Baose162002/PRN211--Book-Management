@@ -58,7 +58,7 @@
             // dgvBook
             // 
             dgvBook.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dgvBook.Location = new Point(29, 427);
+            dgvBook.Location = new Point(38, 374);
             dgvBook.Name = "dgvBook";
             dgvBook.RowTemplate.Height = 25;
             dgvBook.SelectionMode = DataGridViewSelectionMode.FullRowSelect;
@@ -68,15 +68,15 @@
             // cboCategory
             // 
             cboCategory.FormattingEnabled = true;
-            cboCategory.Location = new Point(538, 38);
+            cboCategory.Location = new Point(721, 81);
             cboCategory.Name = "cboCategory";
-            cboCategory.Size = new Size(121, 23);
+            cboCategory.Size = new Size(127, 23);
             cboCategory.TabIndex = 1;
             // 
             // lbBookID
             // 
             lbBookID.AutoSize = true;
-            lbBookID.Location = new Point(76, 38);
+            lbBookID.Location = new Point(75, 25);
             lbBookID.Name = "lbBookID";
             lbBookID.Size = new Size(45, 15);
             lbBookID.TabIndex = 2;
@@ -85,7 +85,7 @@
             // lbBookName
             // 
             lbBookName.AutoSize = true;
-            lbBookName.Location = new Point(76, 97);
+            lbBookName.Location = new Point(75, 81);
             lbBookName.Name = "lbBookName";
             lbBookName.Size = new Size(69, 15);
             lbBookName.TabIndex = 3;
@@ -94,7 +94,7 @@
             // lbDescription
             // 
             lbDescription.AutoSize = true;
-            lbDescription.Location = new Point(76, 162);
+            lbDescription.Location = new Point(74, 296);
             lbDescription.Name = "lbDescription";
             lbDescription.Size = new Size(67, 15);
             lbDescription.TabIndex = 4;
@@ -103,7 +103,7 @@
             // lbReleaseDate
             // 
             lbReleaseDate.AutoSize = true;
-            lbReleaseDate.Location = new Point(73, 234);
+            lbReleaseDate.Location = new Point(74, 136);
             lbReleaseDate.Name = "lbReleaseDate";
             lbReleaseDate.Size = new Size(70, 15);
             lbReleaseDate.TabIndex = 5;
@@ -112,7 +112,7 @@
             // lbQuantity
             // 
             lbQuantity.AutoSize = true;
-            lbQuantity.Location = new Point(73, 294);
+            lbQuantity.Location = new Point(74, 187);
             lbQuantity.Name = "lbQuantity";
             lbQuantity.Size = new Size(53, 15);
             lbQuantity.TabIndex = 6;
@@ -121,7 +121,7 @@
             // lbPrice
             // 
             lbPrice.AutoSize = true;
-            lbPrice.Location = new Point(88, 354);
+            lbPrice.Location = new Point(74, 242);
             lbPrice.Name = "lbPrice";
             lbPrice.Size = new Size(33, 15);
             lbPrice.TabIndex = 7;
@@ -130,7 +130,7 @@
             // lbCategory
             // 
             lbCategory.AutoSize = true;
-            lbCategory.Location = new Point(460, 38);
+            lbCategory.Location = new Point(643, 81);
             lbCategory.Name = "lbCategory";
             lbCategory.Size = new Size(55, 15);
             lbCategory.TabIndex = 8;
@@ -139,7 +139,7 @@
             // lbAuthor
             // 
             lbAuthor.AutoSize = true;
-            lbAuthor.Location = new Point(460, 92);
+            lbAuthor.Location = new Point(643, 135);
             lbAuthor.Name = "lbAuthor";
             lbAuthor.Size = new Size(44, 15);
             lbAuthor.TabIndex = 9;
@@ -147,62 +147,62 @@
             // 
             // txtAuthor
             // 
-            txtAuthor.Location = new Point(538, 89);
+            txtAuthor.Location = new Point(721, 132);
             txtAuthor.Name = "txtAuthor";
-            txtAuthor.Size = new Size(121, 23);
+            txtAuthor.Size = new Size(127, 23);
             txtAuthor.TabIndex = 10;
             // 
             // txtBookID
             // 
-            txtBookID.Location = new Point(171, 36);
+            txtBookID.Location = new Point(169, 22);
             txtBookID.Name = "txtBookID";
-            txtBookID.Size = new Size(106, 23);
+            txtBookID.Size = new Size(192, 23);
             txtBookID.TabIndex = 11;
             // 
             // txtBookName
             // 
-            txtBookName.Location = new Point(171, 92);
+            txtBookName.Location = new Point(169, 78);
             txtBookName.Name = "txtBookName";
-            txtBookName.Size = new Size(106, 23);
+            txtBookName.Size = new Size(192, 23);
             txtBookName.TabIndex = 12;
             // 
             // txtDescription
             // 
-            txtDescription.Location = new Point(161, 144);
+            txtDescription.Location = new Point(169, 293);
             txtDescription.Multiline = true;
             txtDescription.Name = "txtDescription";
             txtDescription.ScrollBars = ScrollBars.Vertical;
-            txtDescription.Size = new Size(233, 61);
+            txtDescription.Size = new Size(192, 61);
             txtDescription.TabIndex = 13;
             // 
             // txtQuanity
             // 
-            txtQuanity.Location = new Point(171, 286);
+            txtQuanity.Location = new Point(169, 179);
             txtQuanity.Name = "txtQuanity";
-            txtQuanity.Size = new Size(106, 23);
+            txtQuanity.Size = new Size(192, 23);
             txtQuanity.TabIndex = 15;
             // 
             // txtPrice
             // 
-            txtPrice.Location = new Point(171, 346);
+            txtPrice.Location = new Point(169, 239);
             txtPrice.Name = "txtPrice";
-            txtPrice.Size = new Size(106, 23);
+            txtPrice.Size = new Size(192, 23);
             txtPrice.TabIndex = 16;
             // 
             // dtpReleaseDate
             // 
             dtpReleaseDate.CustomFormat = "dd/MM/yyyy";
             dtpReleaseDate.Format = DateTimePickerFormat.Custom;
-            dtpReleaseDate.Location = new Point(174, 234);
+            dtpReleaseDate.Location = new Point(169, 130);
             dtpReleaseDate.Name = "dtpReleaseDate";
-            dtpReleaseDate.Size = new Size(120, 23);
+            dtpReleaseDate.Size = new Size(192, 23);
             dtpReleaseDate.TabIndex = 17;
             // 
             // btnDelete
             // 
-            btnDelete.Location = new Point(736, 314);
+            btnDelete.Location = new Point(790, 322);
             btnDelete.Name = "btnDelete";
-            btnDelete.Size = new Size(75, 23);
+            btnDelete.Size = new Size(108, 46);
             btnDelete.TabIndex = 18;
             btnDelete.Text = "Delete";
             btnDelete.UseVisualStyleBackColor = true;
@@ -210,9 +210,9 @@
             // 
             // btnCreate
             // 
-            btnCreate.Location = new Point(471, 314);
+            btnCreate.Location = new Point(525, 322);
             btnCreate.Name = "btnCreate";
-            btnCreate.Size = new Size(75, 23);
+            btnCreate.Size = new Size(108, 46);
             btnCreate.TabIndex = 19;
             btnCreate.Text = "Create";
             btnCreate.UseVisualStyleBackColor = true;
@@ -220,9 +220,9 @@
             // 
             // btnUpdate
             // 
-            btnUpdate.Location = new Point(602, 314);
+            btnUpdate.Location = new Point(660, 322);
             btnUpdate.Name = "btnUpdate";
-            btnUpdate.Size = new Size(75, 23);
+            btnUpdate.Size = new Size(108, 46);
             btnUpdate.TabIndex = 20;
             btnUpdate.Text = "Update";
             btnUpdate.UseVisualStyleBackColor = true;
@@ -230,9 +230,9 @@
             // 
             // btnSearch
             // 
-            btnSearch.Location = new Point(780, 193);
+            btnSearch.Location = new Point(634, 179);
             btnSearch.Name = "btnSearch";
-            btnSearch.Size = new Size(75, 23);
+            btnSearch.Size = new Size(81, 24);
             btnSearch.TabIndex = 21;
             btnSearch.Text = "Search";
             btnSearch.UseVisualStyleBackColor = true;
@@ -240,9 +240,9 @@
             // 
             // txtSearch
             // 
-            txtSearch.Location = new Point(623, 194);
+            txtSearch.Location = new Point(721, 179);
             txtSearch.Name = "txtSearch";
-            txtSearch.Size = new Size(128, 23);
+            txtSearch.Size = new Size(127, 23);
             txtSearch.TabIndex = 22;
             // 
             // btnLoad
@@ -269,9 +269,13 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
+<<<<<<< HEAD
             ClientSize = new Size(968, 705);
             Controls.Add(btnLogout);
             Controls.Add(btnLoad);
+=======
+            ClientSize = new Size(968, 633);
+>>>>>>> cadff47971e8028d2f6dff5f5387e4f92c6eb97f
             Controls.Add(txtSearch);
             Controls.Add(btnSearch);
             Controls.Add(btnUpdate);

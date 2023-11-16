@@ -45,7 +45,7 @@ namespace BookManagement_TranQuocBao
             txtBookID.Enabled = !InsertOrUpdate;
             if (InsertOrUpdate == true)
             {
-                
+
 
 
                 txtBookID.Text = BookInfor.BookId.ToString();
@@ -54,14 +54,16 @@ namespace BookManagement_TranQuocBao
                 dtpReleaaseDate.Value = BookInfor.ReleaseDate;
                 txtQuantity.Text = BookInfor.Quantity.ToString();
                 txtPrice.Text = BookInfor.Price.ToString();
-               
-                
+
+
                 cboCategory.SelectedValue = BookInfor.BookCategoryId;
                 txtAuthor.Text = BookInfor.Author;
-                
+
 
 
             }
+            label1.Parent = pictureBox1;
+            label1.BackColor = Color.Transparent;
         }
 
 
@@ -150,7 +152,7 @@ namespace BookManagement_TranQuocBao
 
             try
             {
-                
+
 
                 var book = new Book()
                 {
@@ -160,11 +162,11 @@ namespace BookManagement_TranQuocBao
                     ReleaseDate = dtpReleaaseDate.Value.Date,
                     Quantity = int.Parse(txtQuantity.Text),
                     Price = double.Parse(txtPrice.Text),
-                    
+
                     BookCategoryId = int.Parse(cboCategory.SelectedValue.ToString()),
                     Author = txtAuthor.Text,
-                   
-                    
+
+
                 };
                 if (InsertOrUpdate)
                 {
@@ -183,6 +185,9 @@ namespace BookManagement_TranQuocBao
             }
         }
 
+        private void label1_Click(object sender, EventArgs e)
+        {
 
+        }
     }
 }
