@@ -50,6 +50,8 @@
             btnUpdate = new Button();
             btnSearch = new Button();
             txtSearch = new TextBox();
+            btnLoad = new Button();
+            btnLogout = new Button();
             ((System.ComponentModel.ISupportInitialize)dgvBook).BeginInit();
             SuspendLayout();
             // 
@@ -59,6 +61,7 @@
             dgvBook.Location = new Point(29, 427);
             dgvBook.Name = "dgvBook";
             dgvBook.RowTemplate.Height = 25;
+            dgvBook.SelectionMode = DataGridViewSelectionMode.FullRowSelect;
             dgvBook.Size = new Size(907, 249);
             dgvBook.TabIndex = 0;
             // 
@@ -242,11 +245,33 @@
             txtSearch.Size = new Size(128, 23);
             txtSearch.TabIndex = 22;
             // 
+            // btnLoad
+            // 
+            btnLoad.Location = new Point(861, 314);
+            btnLoad.Name = "btnLoad";
+            btnLoad.Size = new Size(75, 23);
+            btnLoad.TabIndex = 23;
+            btnLoad.Text = "Load";
+            btnLoad.UseVisualStyleBackColor = true;
+            btnLoad.Click += btnLoad_Click;
+            // 
+            // btnLogout
+            // 
+            btnLogout.Location = new Point(792, 53);
+            btnLogout.Name = "btnLogout";
+            btnLogout.Size = new Size(75, 23);
+            btnLogout.TabIndex = 24;
+            btnLogout.Text = "Logout";
+            btnLogout.UseVisualStyleBackColor = true;
+            btnLogout.Click += btnLogout_Click;
+            // 
             // frmBookManagement
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(968, 705);
+            Controls.Add(btnLogout);
+            Controls.Add(btnLoad);
             Controls.Add(txtSearch);
             Controls.Add(btnSearch);
             Controls.Add(btnUpdate);
@@ -301,5 +326,7 @@
         private Button btnUpdate;
         private Button btnSearch;
         private TextBox txtSearch;
+        private Button btnLoad;
+        private Button btnLogout;
     }
 }

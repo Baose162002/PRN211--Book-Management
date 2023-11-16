@@ -36,5 +36,54 @@ namespace DataAccess
             }
             return list;
         }
+
+        public void create(BookCategory bookcategory)
+        {
+            try
+            {
+                using BookManagement2023DbContext context = new BookManagement2023DbContext();
+                context.BookCategories.Add(bookcategory);
+                context.SaveChanges();
+            }
+            catch (Exception ex)
+            {
+                throw new Exception(ex.Message, ex);
+            }
+        }
+
+        public void update(BookCategory bookcategory)
+        {
+            try
+            {
+                using BookManagement2023DbContext context = new BookManagement2023DbContext();
+                context.Entry<BookCategory>(bookcategory).State = Microsoft.EntityFrameworkCore.EntityState.Modified;
+                context.SaveChanges();
+            }
+            catch (Exception ex)
+            {
+                throw new Exception(ex.Message);
+            }
+        }
+        public BookCategory GetBookCategoryById(int bookcategoryid)
+        {
+            using BookManagement2023DbContext context = new BookManagement2023DbContext();
+            var bookcategory = context.BookCategories.SingleOrDefault(a => a.BookCategoryId == bookcategoryid);
+            return bookcategory;
+        }
+        public void delete(int bookcategoryid)
+        {
+            try
+            {
+                using BookManagement2023DbContext context = new BookManagement2023DbContext();
+                BookCategory bookcategory = context.BookCategories.SingleOrDefault(b => b.BookCategoryId == bookcategoryid);
+                context.BookCategories.Remove(bookcategory);
+                context.SaveChanges();
+            }
+            catch (Exception ex)
+            {
+                throw new Exception(ex.Message, ex);
+            }
+        }
+
     }
 }

@@ -65,3 +65,9 @@ C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\PE\Assignment group\BookManagemen
 C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\PE\Assignment group\BookManagement\obj\Debug\net7.0-windows\BookManagement.pdb
 C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\PE\Assignment group\BookManagement\obj\Debug\net7.0-windows\BookManagement.genruntimeconfig.cache
 C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\PE\Assignment group\BookManagement\obj\Debug\net7.0-windows\ref\BookManagement.dll
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\PE\Assignment group\BookManagement\bin\Debug\net7.0-windows\AutoMapper.dll
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\PE\Assignment group\BookManagement\obj\Debug\net7.0-windows\BookManagement.frmBookCategory.resources
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\PE\Assignment group\BookManagement\obj\Debug\net7.0-windows\BookManagement.frmBookCategoryDetail.resources
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\PE\Assignment group\BookManagement\obj\Debug\net7.0-windows\BookManagement.frmMemberManager.resources
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\PE\Assignment group\BookManagement\obj\Debug\net7.0-windows\BookManagement.frmMemberDetail.resources
+C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\PE\Assignment group\BookManagement\obj\Debug\net7.0-windows\BookManagement.frmMainAdmin.resources

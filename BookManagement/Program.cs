@@ -1,3 +1,5 @@
+using BookManagement;
+
 namespace BookManagement_TranQuocBao
 {
     internal static class Program
@@ -11,7 +13,7 @@ namespace BookManagement_TranQuocBao
             // To customize application configuration such as set high DPI settings or default font,
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
-            Application.Run(new frmBookManagement());
+            Application.Run(new frmLogin());
         }
     }
 }

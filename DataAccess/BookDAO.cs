@@ -5,6 +5,8 @@ using System.Text;
 using System.Threading.Tasks;
 using BookObject.Models;
 using DataAccess.Repository;
+using Microsoft.EntityFrameworkCore;
+
 namespace DataAccess
 {
     public class BookDAO
@@ -29,7 +31,7 @@ namespace DataAccess
             try
             {
                 using BookManagement2023DbContext context = new BookManagement2023DbContext(); 
-                query = context.Books;
+                query = context.Books.Include(b => b.BookCategory); ;
                 list = query.ToList();
             }catch (Exception ex)
             {
