@@ -28,3 +28,18 @@ C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\PE\Assignment group\BookObject\ob
 C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\PE\Assignment group\BookObject\obj\Debug\net7.0\BookObject.pdb
 C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\PE\Assignment group\BookObject\obj\Debug\net7.0\BookObject.genruntimeconfig.cache
 C:\Users\ADMIN\Downloads\chuyen nganh 5\PRN211\PE\Assignment group\BookObject\obj\Debug\net7.0\ref\BookObject.dll
+E:\Workspace\PRN211\PRN211--Book-Management\BookObject\bin\Debug\net7.0\appsettings.json
+E:\Workspace\PRN211\PRN211--Book-Management\BookObject\bin\Debug\net7.0\BookObject.deps.json
+E:\Workspace\PRN211\PRN211--Book-Management\BookObject\bin\Debug\net7.0\BookObject.runtimeconfig.json
+E:\Workspace\PRN211\PRN211--Book-Management\BookObject\bin\Debug\net7.0\BookObject.dll
+E:\Workspace\PRN211\PRN211--Book-Management\BookObject\bin\Debug\net7.0\BookObject.pdb
+E:\Workspace\PRN211\PRN211--Book-Management\BookObject\obj\Debug\net7.0\BookObject.csproj.AssemblyReference.cache
+E:\Workspace\PRN211\PRN211--Book-Management\BookObject\obj\Debug\net7.0\BookObject.GeneratedMSBuildEditorConfig.editorconfig
+E:\Workspace\PRN211\PRN211--Book-Management\BookObject\obj\Debug\net7.0\BookObject.AssemblyInfoInputs.cache
+E:\Workspace\PRN211\PRN211--Book-Management\BookObject\obj\Debug\net7.0\BookObject.AssemblyInfo.cs
+E:\Workspace\PRN211\PRN211--Book-Management\BookObject\obj\Debug\net7.0\BookObject.csproj.CoreCompileInputs.cache
+E:\Workspace\PRN211\PRN211--Book-Management\BookObject\obj\Debug\net7.0\BookObject.dll
+E:\Workspace\PRN211\PRN211--Book-Management\BookObject\obj\Debug\net7.0\refint\BookObject.dll
+E:\Workspace\PRN211\PRN211--Book-Management\BookObject\obj\Debug\net7.0\BookObject.pdb
+E:\Workspace\PRN211\PRN211--Book-Management\BookObject\obj\Debug\net7.0\BookObject.genruntimeconfig.cache
+E:\Workspace\PRN211\PRN211--Book-Management\BookObject\obj\Debug\net7.0\ref\BookObject.dll

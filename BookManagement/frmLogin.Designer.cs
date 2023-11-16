@@ -28,78 +28,86 @@
         /// </summary>
         private void InitializeComponent()
         {
-            lbEmail = new Label();
-            lbPassword = new Label();
             btnLogin = new Button();
             txtEmail = new TextBox();
             txtPassword = new TextBox();
+            logintext = new Label();
+            pictureBox1 = new PictureBox();
+            ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
-            // 
-            // lbEmail
-            // 
-            lbEmail.AutoSize = true;
-            lbEmail.Location = new Point(107, 129);
-            lbEmail.Name = "lbEmail";
-            lbEmail.Size = new Size(36, 15);
-            lbEmail.TabIndex = 0;
-            lbEmail.Text = "Email";
-            // 
-            // lbPassword
-            // 
-            lbPassword.AutoSize = true;
-            lbPassword.Location = new Point(107, 194);
-            lbPassword.Name = "lbPassword";
-            lbPassword.Size = new Size(57, 15);
-            lbPassword.TabIndex = 1;
-            lbPassword.Text = "Password";
             // 
             // btnLogin
             // 
-            btnLogin.Location = new Point(198, 285);
+            btnLogin.BackColor = Color.FromArgb(0, 117, 214);
+            btnLogin.ForeColor = SystemColors.ButtonFace;
+            btnLogin.Location = new Point(116, 367);
             btnLogin.Name = "btnLogin";
-            btnLogin.Size = new Size(75, 23);
+            btnLogin.Size = new Size(164, 42);
             btnLogin.TabIndex = 2;
-            btnLogin.Text = "Login";
-            btnLogin.UseVisualStyleBackColor = true;
+            btnLogin.Text = "LOGIN";
+            btnLogin.UseVisualStyleBackColor = false;
             btnLogin.Click += btnLogin_Click;
             // 
             // txtEmail
             // 
-            txtEmail.Location = new Point(184, 121);
+            txtEmail.Location = new Point(116, 272);
             txtEmail.Name = "txtEmail";
-            txtEmail.Size = new Size(149, 23);
+            txtEmail.PlaceholderText = "Enter your email....";
+            txtEmail.Size = new Size(164, 23);
             txtEmail.TabIndex = 3;
             // 
             // txtPassword
             // 
-            txtPassword.Location = new Point(184, 186);
+            txtPassword.Location = new Point(116, 321);
             txtPassword.Name = "txtPassword";
-            txtPassword.Size = new Size(149, 23);
+            txtPassword.PlaceholderText = "Enter your password....";
+            txtPassword.Size = new Size(164, 23);
             txtPassword.TabIndex = 4;
+            // 
+            // logintext
+            // 
+            logintext.AutoSize = true;
+            logintext.Font = new Font("Bauhaus 93", 27.75F, FontStyle.Regular, GraphicsUnit.Point);
+            logintext.ForeColor = Color.FromArgb(0, 117, 214);
+            logintext.Location = new Point(135, 185);
+            logintext.Name = "logintext";
+            logintext.Size = new Size(124, 42);
+            logintext.TabIndex = 1;
+            logintext.Text = "LOG IN";
+            // 
+            // pictureBox1
+            // 
+            pictureBox1.Image = BookManagement.Properties.Resources.book1;
+            pictureBox1.Location = new Point(116, 23);
+            pictureBox1.Name = "pictureBox1";
+            pictureBox1.Size = new Size(164, 159);
+            pictureBox1.SizeMode = PictureBoxSizeMode.Zoom;
+            pictureBox1.TabIndex = 5;
+            pictureBox1.TabStop = false;
             // 
             // frmLogin
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(451, 450);
+            ClientSize = new Size(380, 464);
+            Controls.Add(pictureBox1);
             Controls.Add(txtPassword);
             Controls.Add(txtEmail);
             Controls.Add(btnLogin);
-            Controls.Add(lbPassword);
-            Controls.Add(lbEmail);
+            Controls.Add(logintext);
             Name = "frmLogin";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Login";
+            ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
 
         #endregion
-
-        private Label lbEmail;
-        private Label lbPassword;
         private Button btnLogin;
         private TextBox txtEmail;
         private TextBox txtPassword;
+        private Label logintext;
+        private PictureBox pictureBox1;
     }
 }
